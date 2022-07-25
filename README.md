@@ -27,6 +27,8 @@ Want to know how JokeAPI works? The developer [documentation explains it.](https
 
 <br><br><br>
 
+<samp>
+
 <h2 align="center">
   Open Source
 </h2>
@@ -34,3 +36,5 @@ Want to know how JokeAPI works? The developer [documentation explains it.](https
   <sub>Copyright © 2021-present, Alex Rintt.</sub>
 </p>
 <p align="center">Jokepack <a href="https://github.com/alexrintt/jokepack/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+
+</samp>
