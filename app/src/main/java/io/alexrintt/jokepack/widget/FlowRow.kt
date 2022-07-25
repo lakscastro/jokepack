@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack.widget
+package io.alexrintt.jokepack.widget
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment

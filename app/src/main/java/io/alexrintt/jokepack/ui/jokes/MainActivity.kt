@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack.ui.jokes
+package io.alexrintt.jokepack.ui.jokes
 
 import android.content.Intent
 import android.net.Uri
@@ -25,9 +25,9 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import com.google.accompanist.swiperefresh.SwipeRefresh
 import com.google.accompanist.swiperefresh.rememberSwipeRefreshState
-import io.lakscastro.jokepack.ui.theme.C0B0B0D
-import io.lakscastro.jokepack.ui.theme.JokepackTheme
-import io.lakscastro.jokepack.ui.theme.fonts
+import io.alexrintt.jokepack.ui.theme.C0B0B0D
+import io.alexrintt.jokepack.ui.theme.JokepackTheme
+import io.alexrintt.jokepack.ui.theme.fonts
 import kotlinx.coroutines.flow.collect
 
 class MainActivity : ComponentActivity() {
@@ -157,7 +157,7 @@ fun AppBar() {
     backgroundColor = Color(0xFF0B0B0D),
     actions = {
       IconButton(onClick = {
-        val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/LaksCastro/jokepack"))
+        val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/alexrintt/jokepack"))
         ContextCompat.startActivity(context, browserIntent, null)
       }) {
         Icon(Icons.Filled.Android, "Open Github Repository Code", tint = Color.White.copy(alpha = 0.4f))

@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack.ui.jokes
+package io.alexrintt.jokepack.ui.jokes
 
 import android.content.Context
 import android.content.Intent
@@ -24,9 +24,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import androidx.core.content.ContextCompat.startActivity
-import io.lakscastro.jokepack.models.Joke
-import io.lakscastro.jokepack.ui.theme.fonts
-import io.lakscastro.jokepack.widget.FlowRow
+import io.alexrintt.jokepack.models.Joke
+import io.alexrintt.jokepack.ui.theme.fonts
+import io.alexrintt.jokepack.widget.FlowRow
 
 @Composable
 fun JokeCard(joke: Joke) {

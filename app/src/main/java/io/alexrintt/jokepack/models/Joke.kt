@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack.models
+package io.alexrintt.jokepack.models
 
 import com.google.gson.annotations.SerializedName
 

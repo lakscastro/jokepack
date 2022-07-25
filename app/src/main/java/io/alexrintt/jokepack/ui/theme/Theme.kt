@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack.ui.theme
+package io.alexrintt.jokepack.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

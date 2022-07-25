@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack.ui.theme
+package io.alexrintt.jokepack.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import io.lakscastro.jokepack.R
+import io.alexrintt.jokepack.R
 
 val fonts = FontFamily(
   Font(R.font.roboto_mono_bold, weight = FontWeight.Bold),

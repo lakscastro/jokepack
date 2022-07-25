@@ -1,12 +1,12 @@
-package io.lakscastro.jokepack.ui.jokes
+package io.alexrintt.jokepack.ui.jokes
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import io.lakscastro.jokepack.data.jokes.JokesRepository
-import io.lakscastro.jokepack.models.Joke
+import io.alexrintt.jokepack.data.jokes.JokesRepository
+import io.alexrintt.jokepack.models.Joke
 import kotlinx.coroutines.launch
 
 class JokeViewModel() : ViewModel() {

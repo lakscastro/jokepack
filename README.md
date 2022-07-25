@@ -4,7 +4,7 @@ This App list jokes from [sv443.net API](https://sv443.net/jokeapi/v2/)
 
 _Note:_ I'm using this project just to learn [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
-> ## Still in development, but the App is [available to download](https://github.com/LaksCastro/jokepack/releases/download/v0.1.0/app-release.apk)
+> ## Still in development, but the App is [available to download](https://github.com/alexrintt/jokepack/releases/download/v0.1.0/app-release.apk)
 
 <p align="center">  
   <kbd>
@@ -31,6 +31,6 @@ Want to know how JokeAPI works? The developer [documentation explains it.](https
   Open Source
 </h2>
 <p align="center">
-  <sub>Copyright © 2021-present, Laks Castro.</sub>
+  <sub>Copyright © 2021-present, Alex Rintt.</sub>
 </p>
-<p align="center">Jokepack <a href="https://github.com/LaksCastro/jokepack/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">Jokepack <a href="https://github.com/alexrintt/jokepack/blob/master/LICENSE.md">is MIT licensed 💖</a></p>

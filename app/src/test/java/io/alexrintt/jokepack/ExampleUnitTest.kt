@@ -1,4 +1,4 @@
-package io.lakscastro.jokepack
+package io.alexrintt.jokepack
 
 import org.junit.Test
 

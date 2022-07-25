@@ -1,13 +1,13 @@
-package io.lakscastro.jokepack.data
+package io.alexrintt.jokepack.data
 
-import io.lakscastro.jokepack.models.Joke
+import io.alexrintt.jokepack.models.Joke
 
 //
 //import android.util.Range
-//import io.lakscastro.jokepack.models.Flag
-//import io.lakscastro.jokepack.models.Joke
-//import io.lakscastro.jokepack.models.Lang
-//import io.lakscastro.jokepack.models.Subject
+//import io.alexrintt.jokepack.models.Flag
+//import io.alexrintt.jokepack.models.Joke
+//import io.alexrintt.jokepack.models.Lang
+//import io.alexrintt.jokepack.models.Subject
 //import retrofit2.Retrofit
 //import retrofit2.converter.scalars.ScalarsConverterFactory
 //import retrofit2.http.GET
